@@ -1,0 +1,15 @@
+{
+  "name": "hmtime",
+  "version": "0.5.3",
+  "description": "扩展JavaScript的Date对象两个最常用的方法, ago和format",
+  "main": "dist/hmtime.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "highven",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
